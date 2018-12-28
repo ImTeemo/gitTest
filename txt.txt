@@ -1,6 +1,2 @@
 this is sth. added with dev branch.
-<<<<<<< HEAD
 this line was added with master and dev branch.
-=======
-this line was added with master and dex branch.
->>>>>>> feature1
